@@ -1,0 +1,15 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '6.0'
+
+pod 'Parse', '>= 1.7.5'
+pod 'Firebase', '>= 2.3.2'
+pod 'pop', '~> 1.0'
+
+target 'WordWar' do
+
+end
+
+target 'WordWarTests' do
+
+end
+
