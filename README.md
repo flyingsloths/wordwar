@@ -5,7 +5,7 @@ Challenge your friends in a real-time, multiplayer word game where words are you
 Getting into the game:
 - Login via Facebook
 - Tap a sword to join game, or tap the "Start New War" board to create a new one
-- Once everyone you want to play with is in your war, only ONE person needs to press "Start War"
+- Once everyone you want to play swith (2-4 players max) is in your war, only ONE person needs to press "Start War"
 
 In the game:
 - Tap letters to add them to your current word
