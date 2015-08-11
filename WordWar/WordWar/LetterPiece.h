@@ -2,8 +2,8 @@
 //  LetterPiece.h
 //  WordWar
 //
-//  Created by Christine Lee on 7/11/15.
-//  Copyright (c) 2015 Christine Lee. All rights reserved.
+//  Created by Flying Sloths on 7/11/15.
+//  Copyright (c) 2015 Flying Sloths. All rights reserved.
 //
 //  Abstraction for one letter in the view
 //

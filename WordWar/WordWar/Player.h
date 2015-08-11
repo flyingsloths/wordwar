@@ -2,8 +2,8 @@
 //  Player.h
 //  WordWar
 //
-//  Created by Christine Lee on 7/6/15.
-//  Copyright (c) 2015 Christine Lee. All rights reserved.
+//  Created by Flying Sloths on 7/6/15.
+//  Copyright (c) 2015 Flying Sloths. All rights reserved.
 //
 //  Player is a combination of things that everyone knows (i.e. things that the
 //  server will send to everyone).

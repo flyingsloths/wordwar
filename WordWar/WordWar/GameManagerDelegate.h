@@ -2,8 +2,8 @@
 //  GameManagerDelegate.h
 //  WordWar
 //
-//  Created by Christine Lee on 7/9/15.
-//  Copyright (c) 2015 Christine Lee. All rights reserved.
+//  Created by Flying Sloths on 7/9/15.
+//  Copyright (c) 2015 Flying Sloths. All rights reserved.
 //
 //  FYI, put into a new file to break the #import cycle that is created
 //  because GameViewController and GameManager are both delegates for
